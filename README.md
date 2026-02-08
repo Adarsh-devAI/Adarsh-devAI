@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adarsh Rathore
+# 👋 Hi, I'm Adarsh Rathour
 
 Welcome to my GitHub! I’m a passionate learner, programmer, and tech explorer building real projects while sharpening my skills.
 
